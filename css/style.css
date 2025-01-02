@@ -138,3 +138,62 @@
     border-radius: 50%;
 }
 
+.offer__items {
+    display: flex;
+    padding: 140px 30px;
+    gap: 50px;
+    justify-content: center;
+}
+
+.offer__item-1 {
+    background-image: url(../img/offer/bck-1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 665px;
+    height: 378px;
+}
+
+.offer__item-1 h2 {
+    margin: 105px 0 0 55px;
+    font-family: "Yellowtail", serif;
+    color: #fff;
+    font-size: 36px;
+    line-height: 64.8px;
+    letter-spacing: .36px;
+}
+
+.offer__item-1 p {
+    margin-left: 55px;
+    font-family: "Roboto", serif;
+    color: #fff;
+    font-size: 40px;
+    line-height: 52px;
+    letter-spacing: .36px;
+}
+
+.offer__item-2 {
+    background-image: url(../img/offer/bck-2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 665px;
+    height: 378px;
+}
+
+.offer__item-2 h2 {
+    margin: 105px 0 0 55px;
+    font-family: "Yellowtail", serif;
+    color: #7EB693;
+    font-size: 36px;
+    line-height: 64.8px;
+    letter-spacing: .36px;
+}
+
+.offer__item-2 p {
+    margin-left: 55px;
+    font-family: "Roboto", serif;
+    color: #274C5B;
+    font-size: 40px;
+    line-height: 52px;
+    letter-spacing: .36px;
+}
+
